@@ -84,7 +84,7 @@ Mo-Tech & PR0FESS0R-99 - For Repo
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/MrSagarBots/MrSagar-AutoCaption-Bot-V1/blob/main/LICENSE)
 
 Licensed under [MIT License](https://github.com/MrSagarBots/MrSagar-AutoCaption-Bot/blob/main/LICENSE)
-🚫 Don't Sell This Code. Code is fully open source project ❤️‍🔥\nCopyright Claimed by © @MrSagarBots
+🚫 Don't Sell This Code. Code is fully open source project ❤️‍🔥 Copyright Claimed by © @MrSagarBots
 
 
 
